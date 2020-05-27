@@ -1,0 +1,17 @@
+// return all records
+GET /product
+GET /category
+
+// return a specific record
+GET /product/{id}
+
+// create a new record
+POST /product
+POST /login
+POST /sale
+
+// update an existing record
+PUT /product/{id}
+
+// delete an existing record
+DELETE /product/{id}

@@ -31,5 +31,6 @@ Seed DB with users, products, categories
 ## Run Server
 
 ```bash
+    /
     php -S 127.0.0.1:8000 -t public
 ```

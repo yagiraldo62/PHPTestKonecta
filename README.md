@@ -2,6 +2,8 @@
 
 Web application built on react as frontend and plain php as backend
 
+all the functionality required was implemented in backend but not in frontend due to time constraints
+
 ## Installation
 
 -   Clone repository.
